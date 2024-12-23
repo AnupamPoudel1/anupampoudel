@@ -88,7 +88,7 @@ export default function Hero() {
                     </div>
                 </div>
 
-                <div className="max-w-xl m-auto">
+                <div className="max-w-lg m-auto">
                     <h1 className='font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide text-secondary font-extrabold'>Building Exceptional User Experiences</h1>
                     <p className='mt-4 text-center text-text md:text-lg'>
                         I specialize in transforming designs into functional, high performing web applications. Let's discuss your next project.

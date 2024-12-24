@@ -1,4 +1,4 @@
-export default function SectionHeader({ eyebrow, title, description }: { eyebrow: String; title: String; description: String; }) {
+export default function SectionHeader({ eyebrow, title, description }: { eyebrow: string; title: string; description: string; }) {
     return (
         <>
             <div className="flex justify-center">

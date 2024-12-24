@@ -91,7 +91,7 @@ export default function Hero() {
                 <div className="max-w-lg m-auto">
                     <h1 className='font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide text-secondary'>Building Exceptional User Experiences</h1>
                     <p className='mt-4 text-center text-text md:text-lg'>
-                        I specialize in transforming designs into functional, high performing web applications. Let's discuss your next project.
+                        I specialize in transforming designs into functional, high performing web applications. Let&apos;s discuss your next project.
                     </p>
                 </div>
                 <div className='flex-center flex-col md:flex-row mt-8 gap-4'>
@@ -101,7 +101,7 @@ export default function Hero() {
                                 👋
                             </span>
                             <span className='font-semibold'>
-                                Let's Connect
+                                Let&apos;s Connect
                             </span>
                         </button>
                     </a>
